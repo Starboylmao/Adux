@@ -1,5 +1,3 @@
-<!DOCTYPE html>
-<style>
 *{
     margin: 0;
     padding: 0;
@@ -61,7 +59,7 @@ body{
     }
 
 }
-</style>
+<!DOCTYPE html>
 <html lang="en">
 <head>
     <meta charset="UTF-8">
